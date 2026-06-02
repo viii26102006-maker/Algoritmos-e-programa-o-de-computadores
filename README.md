@@ -19,6 +19,8 @@ Prompts:
 
 Esses prompts foram uns cujos que tiveram ás melhores respostas, lendo e entendo os documentos, sem nenhuma falha, qualquer assunto sobre algoritmos foram bem correspondidos, existemn arquivos em .md que não foi possível colocar aqui, mas esses arquivos tem toda documentação em python para que os exemplos sejam escritos em python, isso foi mais para a minha compreensão, pois eu estou estudando python atualmente.
 
+https://notebooklm.google.com/notebook/91ff4627-e3ee-451f-a235-2a7ad80f66af
+
 
 
 
